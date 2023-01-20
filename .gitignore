@@ -9,3 +9,6 @@
 
 # Environments
 .env
+
+# sqlite
+.sqlite
