@@ -1,0 +1,11 @@
+# mac
+.DS_Store
+
+# PyCharm
+.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
